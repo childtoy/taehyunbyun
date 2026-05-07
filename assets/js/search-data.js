@@ -440,14 +440,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%59%4F%55%52_%45%4D%41%49%4C@%6B%6F%72%65%61.%61%63.%6B%72", "_blank");
+          window.open("mailto:%74%61%65%68%79%75%6E-%62%79%75%6E@%6B%6F%72%65%61.%61%63.%6B%72", "_blank");
         },
       },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/YOUR_GITHUB_USERNAME", "_blank");
+          window.open("https://github.com/childtoy", "_blank");
         },
       },{
         id: 'social-rss',
