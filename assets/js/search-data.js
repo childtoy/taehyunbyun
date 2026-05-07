@@ -384,11 +384,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/taehyunbyun/books/the_godfather/";
-            },},{id: "news-tada-our-paper-adaptive-hilbert-diffusion-models-for-controllable-smoothness-in-continuous-function-generation-has-been-accepted-to-computational-visual-media-if-18-3-check-out-the-project-page",
+            },},{id: "news-tada-our-paper-adaptive-hilbert-diffusion-models-for-controllable-smoothness-in-continuous-function-generation-has-been-accepted-to-computational-visual-media-check-out-the-project-page",
           title: ':tada: Our paper “Adaptive Hilbert Diffusion Models for Controllable Smoothness in Continuous Function...',
           description: "",
-          section: "News",},{id: "news-tada-our-paper-controllable-single-motion-synthesis-has-been-conditional-accepted-to-pattern-recognition-check-out-the-project-page",
-          title: ':tada: Our paper “Controllable Single Motion Synthesis” has been conditional accepted to Pattern...',
+          section: "News",},{id: "news-our-paper-controllable-single-motion-synthesis-is-under-revision-at-pattern-recognition-check-out-the-project-page",
+          title: 'Our paper “Controllable Single Motion Synthesis” is under revision at Pattern Recognition. Check...',
+          description: "",
+          section: "News",},{id: "news-tada-our-paper-clip-actor-x-has-been-accepted-to-ieee-transactions-on-pattern-analysis-and-machine-intelligence-tpami",
+          title: ':tada: Our paper “CLIP-Actor-X” has been accepted to IEEE Transactions on Pattern Analysis...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
