@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-03-01 07:59:00-0400
+date: 2025-05-01 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-:tada: Our paper "Effective Evaluation of Exoskeleton Using Exo-Agnostic Uncertainty-Aware Classification Model with Wearable Sensors" has been accepted to Augmented Humans (AHs) 2026! See you in Okinawa! 
+:tada: Our paper "Adaptive Hilbert Diffusion Models for Controllable Smoothness in Continuous Function Generation" has been accepted to <strong>Computational Visual Media</strong> (IF 18.3)! Check out the <a href="https://childtoy.github.io/AdaptiveHDM-page/">project page</a>.
