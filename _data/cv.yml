@@ -45,15 +45,30 @@
     - title: Controllable Single Motion Synthesis
       institution: Pattern Recognition (Under Revision)
       year: 2026
-      description: 
     - title: Adaptive Hilbert Diffusion Models for Controllable Smoothness in Continuous Function Generation
       institution: Computational Visual Media (Accepted)
       year: 2026
-      description:
     - title: "CLIP-Actor-X: Text-driven 4D Human Avatar Generation via Cross-modal Synthesis-through-Optimization"
       institution: IEEE Transactions on Pattern Analysis and Machine Intelligence
       year: 2026
-      description:
+    - title: Effective Evaluation of Exoskeleton Using Exo-Agnostic Uncertainty-Aware Classification Model with Wearable Sensors
+      institution: ACM Augmented Humans (AHs) — Poster
+      year: 2026
+    - title: Robust and Expressive Humanoid Motion Retargeting via Optimization-Based Rig Unification
+      institution: IEEE/RSJ IROS
+      year: 2025
+    - title: "Towards Embedding Dynamic Personas in Interactive Robots: Masquerading Animated Social Kinematic (MASK)"
+      institution: IEEE Robotics and Automation Letters
+      year: 2024
+    - title: Score-based Generative Modeling through Stochastic Evolution Equations in Hilbert Spaces
+      institution: Advances in Neural Information Processing Systems (NeurIPS)
+      year: 2023
+    - title: Conditional Motion In-Betweening
+      institution: Pattern Recognition
+      year: 2022
+    - title: A Study of Correlation Curves Estimation
+      institution: Journal of The Korean Data Analysis Society
+      year: 2017
 
 - title: Academic Interests
   type: nested_list
