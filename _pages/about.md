@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href='https://github.com/YOUR_GITHUB_USERNAME'>Github</a>
+  <a href='https://github.com/childtoy'>Github</a>
   &nbsp;|&nbsp;
   <a href='https://scholar.google.com/citations?hl=ko&user=r10X5E4AAAAJ&view_op=list_works&sortby=pubdate'>Google Scholar</a>
   &nbsp;|&nbsp;
@@ -14,8 +14,8 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>YOUR_EMAIL@korea.ac.kr</p>
-    <p>Dept. of Artificial Intelligence</p>
+    <p>taehyun-byun@korea.ac.kr</p>
+    <p>Ph.D Student, Dept. of Artificial Intelligence</p>
     <p>Korea University</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
