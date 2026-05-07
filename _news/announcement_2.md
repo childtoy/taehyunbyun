@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Controllable Single Motion Synthesis" is under revision at <strong>Pattern Recognition</strong>. Check out the <a href="https://childtoy.github.io/csms.github.io/">project page</a>.
+:tada: Our paper "Effective Evaluation of Exoskeleton Using Exo-Agnostic Uncertainty-Aware Classification Model with Wearable Sensors" has been accepted to <strong>ACM Augmented Humans (AHs) 2026</strong> as a Poster!
