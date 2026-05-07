@@ -7,7 +7,7 @@ subtitle: >
   &nbsp;|&nbsp;
   <a href='https://scholar.google.com/citations?hl=ko&user=r10X5E4AAAAJ&view_op=list_works&sortby=pubdate'>Google Scholar</a>
   &nbsp;|&nbsp;
-  <a href='#'>CV</a>
+  <a href='/taehyunbyun/cv/'>CV</a>
 
 profile:
   align: right
