@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: Our paper "Controllable Single Motion Synthesis" has been <strong>conditional accepted</strong> to <strong>Pattern Recognition</strong>! Check out the <a href="https://childtoy.github.io/csms.github.io/">project page</a>.
+Our paper "Controllable Single Motion Synthesis" is under revision at <strong>Pattern Recognition</strong>. Check out the <a href="https://childtoy.github.io/csms.github.io/">project page</a>.

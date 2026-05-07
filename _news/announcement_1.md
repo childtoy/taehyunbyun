@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: Our paper "Adaptive Hilbert Diffusion Models for Controllable Smoothness in Continuous Function Generation" has been accepted to <strong>Computational Visual Media</strong> (IF 18.3)! Check out the <a href="https://childtoy.github.io/AdaptiveHDM-page/">project page</a>.
+:tada: Our paper "Adaptive Hilbert Diffusion Models for Controllable Smoothness in Continuous Function Generation" has been accepted to <strong>Computational Visual Media</strong>! Check out the <a href="https://childtoy.github.io/AdaptiveHDM-page/">project page</a>.
