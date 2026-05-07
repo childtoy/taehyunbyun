@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/taehyunbyun/publications/";
           },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "Curriculum Vitae of Taehyun Byun.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/taehyunbyun/cv/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
