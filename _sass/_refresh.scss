@@ -1,0 +1,198 @@
+/* A lighter palette and clearer rhythm for the academic profile. */
+:root {
+  --global-bg-color: #fbfcff;
+  --global-text-color: #24334b;
+  --global-text-color-light: #62718a;
+  --global-theme-color: #246bd6;
+  --global-hover-color: #1955af;
+  --global-divider-color: #e2e9f3;
+  --profile-accent-bg: #edf4ff;
+}
+
+html[data-theme="dark"] {
+  --global-bg-color: #141e2c;
+  --global-text-color: #e0e9f5;
+  --global-text-color-light: #a1b2c9;
+  --global-theme-color: #87baff;
+  --global-hover-color: #b4d4ff;
+  --global-card-bg-color: #1b283a;
+  --global-divider-color: #304157;
+  --profile-accent-bg: #20344f;
+}
+
+body {
+  line-height: 1.7;
+}
+
+#navbar {
+  border-bottom: 1px solid var(--global-divider-color);
+  box-shadow: 0 3px 20px rgba(30, 65, 115, 0.04);
+}
+
+.post-header {
+  margin-bottom: 2rem;
+}
+
+.post-title {
+  letter-spacing: -0.035em;
+  font-weight: 600;
+}
+
+.about-page .post-header {
+  padding: 1.5rem 0 1.25rem;
+  border-bottom: 2px solid var(--global-divider-color);
+}
+
+.about-page .post-title {
+  font-size: clamp(2.5rem, 6vw, 3.5rem);
+  margin-bottom: 0.6rem;
+}
+
+.about-page .desc a {
+  display: inline-block;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.about-page .intro-heading {
+  font-size: 1.4rem;
+  margin: 0 0 1rem;
+  letter-spacing: -0.02em;
+}
+
+.about-page article > h2,
+.about-page .research-heading {
+  font-size: 1.45rem;
+  font-weight: 600;
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
+  letter-spacing: -0.025em;
+}
+
+.about-page .profile img {
+  border-radius: 16px !important;
+  box-shadow: 0 10px 30px rgba(30, 65, 115, 0.1) !important;
+}
+
+.about-page .profile .more-info {
+  margin-top: 1rem;
+  padding-left: 1rem;
+  border-left: 3px solid var(--global-theme-color);
+}
+
+.about-page .profile .more-info p {
+  color: var(--global-text-color-light);
+  font-family: inherit;
+  font-size: 0.83rem;
+  line-height: 1.55;
+}
+
+.research-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0 1.25rem;
+}
+
+.research-tags span {
+  padding: 0.3rem 0.8rem;
+  border-radius: 6px;
+  background: var(--profile-accent-bg);
+  color: var(--global-theme-color);
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.publications ol.bibliography > li {
+  padding: 1.5rem 0;
+  margin-bottom: 0;
+  border-bottom: 1px solid var(--global-divider-color);
+}
+
+.publications ol.bibliography > li:first-child {
+  padding-top: 0;
+}
+
+.publications ol.bibliography li .title {
+  font-size: 1.08rem;
+  font-weight: 600;
+  line-height: 1.45;
+  margin-bottom: 0.45rem;
+}
+
+.publications ol.bibliography li .author,
+.publications ol.bibliography li .periodical,
+.publications .equal-contribution small {
+  font-size: 0.88rem;
+  line-height: 1.6;
+}
+
+.publications ol.bibliography li .preview {
+  border-radius: 10px !important;
+  box-shadow: none !important;
+  background: var(--global-card-bg-color);
+}
+
+.publications ol.bibliography li .abbr abbr {
+  width: auto !important;
+  padding: 0.35rem 0.6rem;
+  background: var(--profile-accent-bg);
+  color: var(--global-theme-color) !important;
+  font-size: 0.7rem;
+}
+
+.publications ol.bibliography li .abbr abbr div,
+.publications ol.bibliography li .abbr abbr a {
+  color: inherit;
+}
+
+.publications ol.bibliography li .links {
+  margin-top: 0.65rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.publications ol.bibliography li .links a.btn {
+  margin: 0;
+  padding: 0.25rem 0.7rem;
+  color: var(--global-theme-color);
+  border-color: var(--global-divider-color);
+  border-radius: 6px;
+  text-transform: none;
+  font-size: 0.75rem;
+}
+
+.publications ol.bibliography li .links a.btn:hover {
+  background: var(--profile-accent-bg);
+  border-color: var(--global-theme-color);
+  text-decoration: none;
+}
+
+.cv .card {
+  border: 1px solid var(--global-divider-color);
+  border-radius: 12px;
+  box-shadow: none;
+}
+
+.cv .card-title {
+  font-size: 1.25rem;
+  color: var(--global-theme-color);
+}
+
+@media (max-width: 575px) {
+  .about-page .post-header {
+    padding-top: 0.5rem;
+  }
+
+  .about-page .profile {
+    width: 100%;
+    max-width: 300px;
+    float: none !important;
+    margin: 0 auto 2rem;
+  }
+
+  .publications ol.bibliography li .abbr {
+    margin-bottom: 1rem;
+  }
+}
