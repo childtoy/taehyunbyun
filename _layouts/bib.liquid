@@ -148,6 +148,10 @@
       {% endif %}
     </div>
 
+    {% if entry.equal_contribution == 'true' %}
+      <div class="equal-contribution"><small>* Equal contribution (co-first authors)</small></div>
+    {% endif %}
+
     <!-- Journal/Book title and date -->
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}

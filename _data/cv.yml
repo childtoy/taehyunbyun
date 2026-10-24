@@ -53,9 +53,13 @@
     - title: Adaptive Hilbert Diffusion Models for Controllable Smoothness in Continuous Function Generation
       institution: Computational Visual Media (Accepted)
       year: 2026
+      description:
+        - Co-first author (equal contribution)
     - title: "CLIP-Actor-X: Text-driven 4D Human Avatar Generation via Cross-modal Synthesis-through-Optimization"
       institution: IEEE Transactions on Pattern Analysis and Machine Intelligence
       year: 2026
+      description:
+        - Co-first author (equal contribution)
     - title: Effective Evaluation of Exoskeleton Using Exo-Agnostic Uncertainty-Aware Classification Model with Wearable Sensors
       institution: ACM Augmented Humans (AHs) — Poster
       year: 2026
