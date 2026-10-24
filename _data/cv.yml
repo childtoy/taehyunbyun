@@ -29,19 +29,24 @@
   type: time_table
   contents:
     - title: Founder
-      institution: ESTIMO Inc.
+      institution: ESTIMO Inc., Korea
       year: 2020 - 2021
       description:
-        - Led technological vision, hands-on R&D, and Investor Relations (IR).
+        - Founded ESTIMO and developed a rehabilitation and physical therapy application using pose estimation.
     - title: Research Scientist
-      institution: CONTINUUM Inc.
+      institution: CONTINUUM Inc., Korea
       year: 2018 - 2019
       description:
-        - Computer Vision Research 
+        - Conducted computer vision research in pose estimation, classification, and detection.
 
 - title: Publications & Presentations
   type: time_table
   contents:
+    - title: Robot Motion Transition with Human Motion Prior
+      institution: arXiv preprint
+      year: 2026
+      description:
+        - '<a href="https://arxiv.org/abs/2610.30817">Paper</a> · <a href="https://childtoy.github.io/STAMP-project/">Project Page</a>'
     - title: Controllable Single Motion Synthesis
       institution: Pattern Recognition (Under Revision)
       year: 2026
@@ -63,6 +68,11 @@
     - title: Score-based Generative Modeling through Stochastic Evolution Equations in Hilbert Spaces
       institution: Advances in Neural Information Processing Systems (NeurIPS)
       year: 2023
+    - title: Learning Joint Representation of Human Motion and Language
+      institution: arXiv preprint
+      year: 2022
+      description:
+        - '<a href="https://arxiv.org/abs/2210.15187">Paper</a>'
     - title: Conditional Motion In-Betweening
       institution: Pattern Recognition
       year: 2022
@@ -73,6 +83,10 @@
 - title: Academic Interests
   type: nested_list
   contents:
+    - title: Human-Grounded Humanoid Motion Synthesis
+      items:
+        - Human Motion Priors for Humanoid Motion Generation
+        - Spatio-Temporal Alignment & Motion Transitions
     - title: Generative Motion Synthesis
       items:
         - Continuous & Function Space Modeling (Hilbert space-based approaches)
