@@ -40,7 +40,7 @@ I received my M.S. in Statistics from Korea University in **Seoul**, advised by 
 
 <h2 class="research-heading">Research Interests</h2>
 
-I study **generative models**, including diffusion and flow matching, to learn human motion distributions and build controllable motion priors. Through **motion synthesis and retargeting**, I aim to translate these priors into natural movements that fit the embodiment and physical constraints of humanoid robots. I am also interested in continuous and function-space generative modeling, including Hilbert space-based approaches.
+I study **generative models**, including diffusion and flow matching, to learn human motion distributions and build controllable motion priors. Through **motion synthesis and retargeting**, I aim to translate these priors into natural movements that fit the embodiment and physical constraints of humanoid robots. I am also interested in human–robot interaction and in developing friendly, natural robot behaviors for everyday settings, including the home.
 
 <div class="research-tags" aria-label="Research areas">
   <span>Generative Modeling</span>
