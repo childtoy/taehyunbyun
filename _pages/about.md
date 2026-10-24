@@ -45,5 +45,5 @@ I study **generative models**, including diffusion and flow matching, to learn h
 <div class="research-tags" aria-label="Research areas">
   <span>Generative Modeling</span>
   <span>Controllable Motion Synthesis</span>
-  <span>Humanoid Retargeting</span>
+  <span>Humanoid Motion Retargeting</span>
 </div>
