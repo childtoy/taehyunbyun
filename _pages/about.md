@@ -36,7 +36,7 @@ I’m a Ph.D. student in Artificial Intelligence at <a href="https://www.korea.a
 
 My doctoral research, **Toward Human-Grounded Humanoid Motion Synthesis**, connects generative modeling of human motion with controllable, human-like behaviors for humanoid robots.
 
-I received my M.S. in Statistics from Korea University in **Seoul**, advised by Professor Myoungshic Jhun, and my B.S. in Information and Mathematics from Korea University in **Sejong**.
+I received my M.S. in Statistics from Korea University in Seoul, advised by Professor Myoungshic Jhun, and my B.S. in Information and Mathematics from Korea University in Sejong.
 
 <h2 class="research-heading">Research Interests</h2>
 
