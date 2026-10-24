@@ -32,15 +32,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<h2 class="intro-heading">Hi, I’m Taehyun Byun</h2>
-I'm a Ph.D. student in the Department of Artificial Intelligence at <a href='https://www.korea.ac.kr'>Korea University</a>, working in the <a href='https://sites.google.com/view/sungjoon-choi/home'>Robot Intelligence Lab. (RILAB)</a> under the supervision of Professor Sungjoon Choi. My doctoral research is centered on <em>Toward Human-Grounded Humanoid Motion Synthesis</em>, exploring how generative models can learn human motion distributions and provide controllable motion priors for humanoid robots. Prior to my Ph.D., I earned my M.S. in Statistics at Korea University in Seoul, advised by Professor Myoungshic Jhun, and my B.S. in Information and Mathematics at Korea University in Sejong.
+I’m a Ph.D. student in Artificial Intelligence at <a href="https://www.korea.ac.kr">Korea University</a>, working with Professor Sungjoon Choi in the <a href="https://sites.google.com/view/sungjoon-choi/home">Robot Intelligence Lab. (RILAB)</a>.
+
+My doctoral research, **Toward Human-Grounded Humanoid Motion Synthesis**, connects generative modeling of human motion with controllable, human-like behaviors for humanoid robots.
+
+I received my M.S. in Statistics from Korea University in **Seoul**, advised by Professor Myoungshic Jhun, and my B.S. in Information and Mathematics from Korea University in **Sejong**.
 
 <h2 class="research-heading">Research Interests</h2>
+
+I study **generative models**, including diffusion and flow matching, to learn human motion distributions and build controllable motion priors. Through **motion synthesis and retargeting**, I aim to translate these priors into natural movements that fit the embodiment and physical constraints of humanoid robots. I am also interested in continuous and function-space generative modeling, including Hilbert space-based approaches.
+
 <div class="research-tags" aria-label="Research areas">
-  <span>Human-Grounded Humanoid Motion</span>
   <span>Generative Modeling</span>
   <span>Controllable Motion Synthesis</span>
-  <span>Human-to-Humanoid Retargeting</span>
+  <span>Humanoid Retargeting</span>
 </div>
-
-My research aims to synthesize human-like motion for humanoid robots. I am interested in generative modeling, particularly diffusion models and flow matching, as a way to learn the rich distributions underlying human motion. I study how these models can serve as motion priors for controllable synthesis, producing natural movements with precise control over their timing, transitions, and characteristics. Alongside motion generation, I investigate human-to-humanoid retargeting to adapt these movements to the embodiment and physical constraints of humanoid robots. Together, these directions support my broader goal of human-grounded humanoid motion synthesis: turning rich human motion into coherent, executable humanoid behaviors. My methodological interests include continuous and function-space generative modeling, including Hilbert space-based approaches.
