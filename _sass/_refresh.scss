@@ -271,3 +271,7 @@ body {
     grid-row: 2;
   }
 }
+
+/* Cards and publication entries supply their own structure; omit list markers. */
+.cv ul.list-group,.cv ul.items,.cv ul.subitems,.publications ol.bibliography{list-style:none;padding-left:0}
+.cv ul.list-group>li::marker,.cv ul.items>li::marker,.cv ul.subitems>li::marker,.publications ol.bibliography>li::marker{content:""}
