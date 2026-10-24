@@ -1,6 +1,8 @@
 "lee":
   - firstname: ["Kyungjae", "K."]
     url: https://kyungjaelee.github.io/
+  - firstname: ["Seulbi", "S."]
+    url: #
 
 "hwang":
   - firstname: ["Sangheum", "S."]
@@ -12,8 +14,4 @@
 
 "chang":
   - firstname: ["Minwook", "M."]
-    url: #
-
-"lee":
-  - firstname: ["Seulbi", "S."]
     url: #
